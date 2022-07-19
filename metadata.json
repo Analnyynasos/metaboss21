@@ -1,0 +1,52 @@
+{
+  "name": "Ape #4692",
+  "symbol": "JUSTAPE",
+  "description": "Just ape. A collection of 10,000 Apes that take us back to basics. None of the fluff, all of the value.",
+  "seller_fee_basis_points": 2000,
+  "image": "https://bafybeiccw4apisvau4vleedd24mywvq7lad5flky4n7ycg4tyqk3yepqhi.ipfs.nftstorage.link/4692.png?ext=png",
+  "attributes": [
+{
+      "trait_type": "Background",
+      "value": "Wheat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cosmic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blank Stare"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusted"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bar"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Hooded"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FZ9XCR9S7zWiAupBms1T6wXpH2MEkZxtREy2UroxdU3J",
+        "share": 100
+      }
+    ]
+  }
+}
